@@ -1,0 +1,72 @@
+.contact-container .contact-container-top{
+    width: 70%;
+    margin: 0 15%;
+ /*   background-color: black;
+    opacity: .5;*/
+    color: whitesmoke;
+    padding-bottom: 8%;
+}
+.contact-container .contact-container-block{
+   background-color: black;
+
+   }
+.contact-container h2 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: white;
+}
+.contact-container p{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+.contact-container a{
+    margin-top: 10px;
+}
+.contact-container-top #contact-container-phone{
+    float: left;
+}
+
+.contact-container-top #contact-container-phone-number{
+    float: right;
+    padding-top: 10px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.contact-container-top #contact-container-email{
+    float: left;
+}
+
+.contact-container-top #contact-container-email-address{
+    float: right;
+    padding-top: 10px;
+}
+
+.contact-container .information{
+    width: 70%;
+    margin: 7% 15%;
+    
+}
+.information label{
+   /* padding-left: 10px;*/
+}
+.information #fname , .information #email , .information #reason{
+    margin-left: 7px;
+    margin-right: 342px;
+    margin-bottom: 30px;
+}
+.information #lname , .information #phone {
+    margin-left: 7px;
+}
+
+ .information #email{
+    margin-right: 390px;
+}
+.information #comment{
+    margin-bottom: 20px;
+}
